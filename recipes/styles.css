@@ -1,0 +1,30 @@
+h1{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: red;
+    text-align: center;
+}
+
+h2{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: red;
+    text-align: center;
+}
+
+p,ul,ol{
+    background-color: black;
+    color: red;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: black;
+}
+
+div{
+    text-align: center;
+}
